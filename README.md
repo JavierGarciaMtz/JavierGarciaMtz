@@ -3,8 +3,7 @@
 src="https://github.com/JavierGarciaMtz/JavierGarciaMtz/blob/main/Banner.png"
 width="800"/>
 </div>
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JavierGarciaMtz.JavierGarciaMtz&color=00cf00" alt=""/>
+
 <h1>
   Hola soy Javier. ¡Encantado de tenerte aqui!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
