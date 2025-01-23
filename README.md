@@ -3,6 +3,7 @@
 src="https://github.com/JavierGarciaMtz/JavierGarciaMtz/blob/main/Banner.png"
 width="800"/>
 </div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 Apasionado de la Ciencia de Datos y de la tecnologia
 ´* Actualemnte estudiando Ciencia de Datos en Bootcamp de TripleTen
