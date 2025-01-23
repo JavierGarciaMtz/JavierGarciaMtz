@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Apasionado de la Ciencia de Datos y de la tecnologia
+´* Actualemnte estudiando Ciencia de Datos en Bootcamp de TripleTen
+´* Siempre aprendiendo y practicando SQL y Python
+´* Enamorado de la ciencia de datos
+
 <!--
 **JavierGarciaMtz/JavierGarciaMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
