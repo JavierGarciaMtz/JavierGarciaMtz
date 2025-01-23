@@ -17,9 +17,13 @@ width="800"/>
 ### :woman_technologist: Sobre mí :
 
 Apasionado de la Ciencia de Datos y de la tecnologia<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-´* Actualemnte estudiando Ciencia de Datos en Bootcamp de TripleTen
-´* Siempre aprendiendo y practicando SQL y Python
-´* Enamorado de la ciencia de datos
+* :telescope: Actualemnte estudiando Ciencia de Datos en Bootcamp de TripleTen :muscle:
+
+* :seedling: Siempre aprendiendo y practicando SQL y Python. :blue_book:  :computer: 
+
+* :heartbeat: Enamorado de la ciencia de datos
+
+
 
 <!--
 **JavierGarciaMtz/JavierGarciaMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
