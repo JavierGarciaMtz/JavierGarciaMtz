@@ -11,8 +11,12 @@ width="800"/>
 </h1>
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+---
+ <div id="header" align="left">
 
-Apasionado de la Ciencia de Datos y de la tecnologia
+### :woman_technologist: Sobre mí :
+
+Apasionado de la Ciencia de Datos y de la tecnologia<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ´* Actualemnte estudiando Ciencia de Datos en Bootcamp de TripleTen
 ´* Siempre aprendiendo y practicando SQL y Python
 ´* Enamorado de la ciencia de datos
