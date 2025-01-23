@@ -3,6 +3,9 @@
 src="https://github.com/JavierGarciaMtz/JavierGarciaMtz/blob/main/Banner.png"
 width="800"/>
 </div>
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JavierGarciaMtz.JavierGarciaMtz&color=00cf00" alt=""/>
+  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 Apasionado de la Ciencia de Datos y de la tecnologia
