@@ -1,9 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/6c1ead56-b04a-4c19-bd7f-0626ec4901b0)
-<div id="header" align="center">
-  <img decoding="async"
-src="https://github.com/JavierGarciaMtz/JavierGarciaMtz/blob/main/Banner.png"
-width="800"/>
-</div>
+
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
