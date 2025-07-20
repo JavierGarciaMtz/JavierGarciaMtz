@@ -14,7 +14,7 @@
 ### :woman_technologist: Sobre mí :
 
 Apasionado de la Ciencia de Datos y de la tecnologia<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualemnte estudiando Ciencia de Datos en Bootcamp de TripleTen :muscle:
+* :telescope: Cientifico de Datos en Bootcamp de TripleTen :muscle:
 
 * :seedling: Siempre aprendiendo y practicando SQL y Python. :blue_book:  :computer: 
 
